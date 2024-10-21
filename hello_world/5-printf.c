@@ -1,7 +1,11 @@
 #include <stdio.h>
 
 /**
-* Decription: print output using printf func
+* main - Entry point
+*
+* Description: print output str using the printf func
+*
+* Return: Always 0 (Success)
 */
 
 int main(void)
