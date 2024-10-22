@@ -16,11 +16,11 @@
 /* betty style doc for function main goes there */
 int main(void)
 {
-	int n;
+	int n, l_digit;
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
-	int l_digit = n % 10;
+	l_digit = n % 10;
 
 	if (l_digit > 5)
 	{
