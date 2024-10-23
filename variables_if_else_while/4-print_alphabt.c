@@ -15,7 +15,9 @@
 int main(void)
 {
 
-	for (char letters = 'a'; letters <= 'z'; letters++)
+	char letters;
+
+	for (letters = 'a'; letters <= 'z'; letters++)
 	{
 		if (letters == 'e' || letters == 'q')
 		{
