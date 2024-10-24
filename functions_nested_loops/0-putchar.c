@@ -2,12 +2,12 @@
 
 
 /**
- * Description: print_putchard - print the characters '_putchar' to stdout
+ * Description: print_putchar - print the characters '_putchar' to stdout
  *
  * Return: Always 0 (Success)
  */
 
-int print_putchar(void)
+int main(void)
 {
 	_putchar('_');
 	_putchar('p');
@@ -17,6 +17,7 @@ int print_putchar(void)
 	_putchar('h');
 	_putchar('a');
 	_putchar('r');
-	return (0);
+	_putchar('\n');
 
+	return (0);
 }
