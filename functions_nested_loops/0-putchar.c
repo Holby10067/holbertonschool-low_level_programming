@@ -1,7 +1,8 @@
 #include "main.h"
 
-
 /**
+ * main - Entry point
+ *
  * Description: print_putchar - print the characters '_putchar' to stdout
  *
  * Return: Always 0 (Success)
