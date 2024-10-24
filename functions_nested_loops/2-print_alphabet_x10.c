@@ -2,9 +2,9 @@
 #include "main.h"
 
 /**
- * print_alphabet_10x - print to stdout
+ * print_alphabet_x10 - print _putchar to stdout
  *
- * Description: print_alphabet_x10 - print alphabet in lowercase x10 to stdout
+ *Description: print alphabet in lowercase x10 to stdout
  *
  */
 
